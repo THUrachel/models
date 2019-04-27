@@ -1,4 +1,5 @@
 # TensorFlow Models
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
 This repository contains a number of different models implemented in [TensorFlow](https://www.tensorflow.org):
 
